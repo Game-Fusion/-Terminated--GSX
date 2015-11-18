@@ -18,8 +18,9 @@ end
 
 term.setBackgroundColour(colours.lightGrey)
 term.setTextColour(colours.black)
-centerSlow(8,"Welcome to GameStation X.")
-centerSlow(9,"The last of a generation.")
-centerSlow(10,"Made by Revolution and Game Fusion.")
+term.clear()
+centerSlow(2,"Welcome to GameStation X.")
+centerSlow(3,"The last of it's generation.")
+centerSlow(4,"By Revolution, RARE and Game Fusion.")
 sleep(2)
 shell.run("/GSX/Menu")
