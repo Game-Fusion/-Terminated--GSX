@@ -19,3 +19,5 @@ Plans:
 • GAMES
 
 • Some cool apps
+
+See "latestbuild" for info on the latest builds of GSX.
