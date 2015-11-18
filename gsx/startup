@@ -1,0 +1,25 @@
+-- loading all functions necessary
+
+function center(y,string)
+  local w,h = term.getSize()
+  local x = (w/2)-(#string/2)
+  term.setCursorPos(x,y)
+  print(string)
+end
+
+function centerSlow(y,string)
+  local w,h = term.getSize()
+  local x = (w/2)-(#string/2)
+  term.setCursorPos(x,y)
+  textutils.slowPrint(string)
+end
+
+-- now for the startup
+
+term.setBackgroundColour(colours.lightGrey)
+term.setTextColour(colours.black)
+centerSlow(8,"Welcome to GameStation X.")
+centerSlow(9,"The last of a generation.")
+centerSlow(10,"Made by Revolution and Game Fusion.")
+sleep(2)
+shell.run("/GSX/Menu")
