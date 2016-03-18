@@ -1,3 +1,5 @@
+#This project has been terminated. Thank you for supporting GSX.
+
 # GSX
 GameStation X. The last of a generation.
 
