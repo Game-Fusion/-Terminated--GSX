@@ -1,6 +1,7 @@
-#This project has been terminated. Thank you for supporting GSX.
+# This project has been terminated. Thank you for supporting GSX.
 
 # GSX
+
 GameStation X. The last of a generation.
 
 To cap off a generation of enjoyment, we have put one last console in the line of GameStations.
@@ -14,9 +15,9 @@ Plans:
 
 • GSN?
 
-• GS2 Compatibility or some shiet
+• GS2 Compatibility
 
-• A clean, nice menu
+• A nice, clean GUI
 
 • GAMES
 
